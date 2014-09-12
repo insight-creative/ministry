@@ -1,0 +1,7 @@
+# Site settings
+title: Ministry Ad Sizes
+baseurl: /ministry
+
+# Build settings
+markdown: kramdown
+permalink: pretty
